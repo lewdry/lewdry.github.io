@@ -8,4 +8,4 @@ I have extensive experience in developing and delivering digital solutions in En
 
 In 2011 I co-wrote; co-produced and performed in the ‘The Quotidian Revue’ at the Edinburgh Festival Fringe to generally positive reviews. I’m still talking about it.
 
-https://github.com/lewdry
+[https://github.com/lewdry](https://github.com/lewdry)
