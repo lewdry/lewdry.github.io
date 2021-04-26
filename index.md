@@ -8,4 +8,4 @@ I am a Scottish technology professional and information acrobat, based in Sydney
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/lewis-dryburgh)
 
-[Read some old blogs from the early 2010s](https://lewisdryburgh.com)
+[Check out my blogs from the early 2010s](https://lewisdryburgh.com)
