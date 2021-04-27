@@ -1,4 +1,4 @@
-## Welcome to lewdry's scratchpad
+## Welcome to lewdry's github
 
 My name is Lewis Dryburgh.
 
