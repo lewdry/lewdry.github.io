@@ -7,5 +7,3 @@ I am a Scottish technology professional and information acrobat, based in Sydney
 [See what I'm working on at GitHub](https://github.com/lewdry)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/lewis-dryburgh)
-
-[Check out my blogs from the early 2010s](https://lewisdryburgh.com)
