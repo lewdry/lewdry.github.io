@@ -1,4 +1,4 @@
-## Welcome to lewdry's github
+## Welcome
 
 My name is Lewis Dryburgh.
 
